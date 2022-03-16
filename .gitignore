@@ -1,6 +1,0 @@
-.config/gspread/service_account.json
-.env
-venv
-.idea/
-/__pycache/
-*./
